@@ -6,6 +6,7 @@ Six years in fund accounting at BNY Mellon and six in distribution and inventory
 
 | Project | The question it answers | Status |
 | --- | --- | --- |
+| [**Variance**](https://github.com/dualityframework-ux/duality-framework/tree/main/variance) | Why is the cycle count off? | [Live ↗](https://dualityframework-ux.github.io/duality-framework/variance/) |
 | [**Runway**](https://github.com/dualityframework-ux/Runway) | How low will my balance get before payday? | [Live ↗](https://dualityframework-ux.github.io/Runway/) |
 | [**frame²**](https://github.com/dualityframework-ux/frame2_mvp) | Did they earn that record, or get lucky? | Python · Streamlit · 214 tests |
 | [**frame²mental**](https://github.com/dualityframework-ux/frame2mental) | What is behind how I feel this week? | Python · Streamlit |
